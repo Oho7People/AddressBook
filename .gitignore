@@ -1,0 +1,11 @@
+# compiled files
+*.out
+*.exe
+*.o
+*.a
+
+# mac
+.DS_Store
+
+# build folders
+build/
